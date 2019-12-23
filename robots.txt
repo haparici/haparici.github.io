@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://home.uchicago.edu/~haparicio/sitemap.xml

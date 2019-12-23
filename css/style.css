@@ -1,0 +1,51 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    background-color: #FFFFFF;
+    line-height:1.4;
+	padding:60px;
+	position:relative;      
+    -webkit-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+    -moz-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+    box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+}
+
+body {
+	background-color: #f2f2f2;
+}
+
+a {
+   color:#800000;
+   text-decoration:none;
+}
+
+a:hover {
+	color:grey;
+}
+
+.hr {
+	width:100%;
+	border-top: 4px solid #800000;
+}
+
+.hrmargintop {
+	width:100%;
+	border-top: 4px solid #800000;
+	margin-top:35px;
+}
+
+.hrmarginbottom {
+	width:100%;
+	border-top: 4px solid #800000;
+	margin-bottom:30px;
+}
+
+#fotohelena {
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.marginend {
+	margin-top:50px;
+}
